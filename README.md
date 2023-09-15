@@ -5,4 +5,4 @@
   />
 </a>
 
-[Check out my search engine!](https://find.aliawari.com)
+[Click here! Try my search engine!](https://find.aliawari.com)

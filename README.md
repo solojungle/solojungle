@@ -4,5 +4,3 @@
     src="https://raw.githubusercontent.com/solojungle/solojungle/main/image.png"
   />
 </a>
-
-[Click here! Try my search engine!](https://find.aliawari.com)
